@@ -5,7 +5,7 @@ pkg install python
 
 git clone https://github.com/YnndXyaa/ScPrivate
 
-cd SCPRIBADI
+cd ScPrivate
 
 ls
 
