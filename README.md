@@ -16,3 +16,5 @@ ls
 git pull
 
 Python scku.py
+
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Ynnd-XD-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6285215857846)
