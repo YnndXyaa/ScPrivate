@@ -1,9 +1,4 @@
-# ScPrivate
-Enjoy free brother
-_______________
-
-
-
+#installing
 
 pkg install python
 
@@ -18,4 +13,4 @@ git pull
 Python scku.py
 
 
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Ynnd-XD-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6285215857846)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-YnndXyaa?style=flat-square&logo=github)](https://github.com/YnndXyaa)<br> [![Facebook](https://img.shields.io/badge/Facebook-YnndSadega-blue?style=flat-square&logo=facebook)](https://www.facebook.com/unavailable.this.link)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-YnndSadega-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6285215857846
